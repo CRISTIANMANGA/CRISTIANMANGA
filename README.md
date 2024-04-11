@@ -3,3 +3,6 @@
 <h3 align="center">Hola mi nombre es Cristian Miguel Manga Hernández. Tengo conocimientos en lenguajes de programación como python, html y css.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielalopezpinto&label=Profile%20views&color=0e75b6&style=flat" alt="CRISTIANMANGA" /> </p>
+
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=CRISTIANMANGA.CRISTIANMANGA&color=00cf00" alt=""/>
