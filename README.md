@@ -25,14 +25,5 @@
 
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CRISTIANMANGA&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTIANMANGA&layout=compact&theme=vision-friendly-dark)](https://github.com/CRISTIANMANGA))
-
-<p> <img align="center" src=" https://github-readme-stats.vercel.app/api?username=thecrishman&show_icons=true&locale=en" alt="thecrishman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecrishman&" alt="thecrishman" /></p>
 
 
